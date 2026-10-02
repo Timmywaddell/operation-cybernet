@@ -16,7 +16,7 @@ A free browser science-fiction arena FPS. Fight beneath an alien temple, boost o
 ## Play free
 
 
-**[PLAY ON ITCH.IO](https://coltensteelegames.itch.io/operation-cybernet)** · **[FACEBOOK COMMUNITY](https://www.facebook.com/profile.php?id=61594951052121)**
+**[PLAY ON ITCH.IO](https://coltensteelegames.itch.io/operation-cybernet)** · **[FACEBOOK COMMUNITY](https://www.facebook.com/OperationCybernet)**
 
 
 The itch.io player runs solo. Follow the online server links on the game page for multiplayer; everyone must choose the **same server and room**. Desktop mouse and keyboard recommended. Let initial loading finish before playing.
@@ -65,7 +65,7 @@ Real in-game development captures—not generated artwork. The evolving build ma
 This is an **active-development public playtest**, not a finished release. Performance and online latency vary by device, location and server.
 
 
-[Leave feedback on itch.io](https://coltensteelegames.itch.io/operation-cybernet) or [join the Facebook community](https://www.facebook.com/profile.php?id=61594951052121). Tell us your mode, server, browser, approximate FPS/ping and what happened. Short gameplay clips are welcome; don't share private logs or credentials.
+[Leave feedback on itch.io](https://coltensteelegames.itch.io/operation-cybernet) or [join the Facebook community](https://www.facebook.com/OperationCybernet). Tell us your mode, server, browser, approximate FPS/ping and what happened. Short gameplay clips are welcome; don't share private logs or credentials.
 
 
 **Which fight made you want another round—and which moment got in the way?**
@@ -74,13 +74,13 @@ This is an **active-development public playtest**, not a finished release. Perfo
 ## Follow the development story
 
 
-[Read the playable-release devlog](https://coltensteelegames.itch.io/operation-cybernet/devlog/1686025/cybernet-is-now-playable-on-itchio-jetpack-combat-red-protocol-and-four-player-co-op) · [Follow Operation Cybernet](https://www.facebook.com/profile.php?id=61594951052121)
+[Read the playable-release devlog](https://coltensteelegames.itch.io/operation-cybernet/devlog/1686025/cybernet-is-now-playable-on-itchio-jetpack-combat-red-protocol-and-four-player-co-op) · [Follow Operation Cybernet](https://www.facebook.com/OperationCybernet)
 
 
 ## Official community and development hubs
 
 - [Discord — find a fireteam and share feedback](https://discord.gg/NXgfDrmpg)
-- [Facebook — community news](https://www.facebook.com/profile.php?id=61594951052121)
+- [Facebook — community news](https://www.facebook.com/OperationCybernet)
 - [IndieDB — development stories and machine gallery](https://www.indiedb.com/games/operation-cybernet)
 - [Game Jolt — development showcase](https://gamejolt.com/games/operation-cybernet/1103917)
 
