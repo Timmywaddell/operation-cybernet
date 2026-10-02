@@ -22,6 +22,14 @@ A free browser science-fiction arena FPS. Fight beneath an alien temple, boost o
 The itch.io player runs solo. Follow the online server links on the game page for multiplayer; everyone must choose the **same server and room**. Desktop mouse and keyboard recommended. Let initial loading finish before playing.
 
 
+## Watch the gameplay trailer
+
+[![Watch Operation Cybernet — official gameplay trailer](https://img.youtube.com/vi/vI4YZ8JotGk/hqdefault.jpg)](https://youtu.be/vI4YZ8JotGk)
+
+**[WATCH THE TRAILER](https://youtu.be/vI4YZ8JotGk) · [PLAY FREE](https://coltensteelegames.itch.io/operation-cybernet)**
+
+Real gameplay from the in-development public playtest. Bring a fireteam and help shape the next build.
+
 ## Choose your fight
 
 
