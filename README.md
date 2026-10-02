@@ -47,6 +47,18 @@ Real gameplay from the in-development public playtest. Bring a fireteam and help
 Jetpack combat and sliding meet plasma weapons, the Inferno cannon and sticky grenades. Striker brings the close-range drill threat; Sentinel hunts overhead. Escalating waves lead into **Red Protocol** and the **Siege Walker**.
 
 
+## Meet the machines. Bring your squad.
+
+AI-assisted promotional illustrations—not gameplay screenshots. These posters explore the roster and atmosphere; see the gameplay section above for the actual game.
+
+| Striker + Sentinel | Raider + Bombardier |
+| --- | --- |
+| ![Striker and Sentinel promotional art](https://img.itch.zone/aW1nLzMwNDgyMDcxLnBuZw==/original/4gJX7m.png) | ![Raider and Bombardier promotional art](https://img.itch.zone/aW1nLzMwNDgyMDk5LnBuZw==/original/Bb8WJo.png) |
+| Siege Walker | Operators |
+| ![Siege Walker promotional art](https://img.itch.zone/aW1nLzMwNDgyMTAyLnBuZw==/original/zvfOoc.png) | ![Operators promotional art](https://img.itch.zone/aW1nLzMwNDgyMTIyLnBuZw==/original/hpPnVf.png) |
+
+[More art and real gameplay on Instagram](https://www.instagram.com/operationcybernet/) · [Play free](https://coltensteelegames.itch.io/operation-cybernet)
+
 ## Inside the helmet
 
 
