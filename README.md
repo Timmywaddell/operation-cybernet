@@ -1,5 +1,23 @@
 # OPERATION CYBERNET
 
+## Latest devlog — Inside Level 2: The Drowned Relay
+
+**6 October 2026 — development preview.** Explore our new alien temple, elevated ramps, wetland routes and Operator facilities in a tour of real environment-review screenshots. Wave 1 Strikers are in local testing; pursuit, obstacle traversal and performance are still being refined. Level 2 has not launched publicly yet.
+
+[Watch the video devlog](https://youtu.be/puw9WoumVNY) · [Read the illustrated update](https://coltensteelegames.itch.io/operation-cybernet/devlog/1693448/inside-level-2-the-drowned-relay-new-views-wave-1-and-what-comes-next)
+
+![The Drowned Relay development view](https://img.itch.zone/aW1nLzMwNTg3OTk5LmpwZw==/original/SoJgfl.jpg)
+
+*Real environment-review capture, not generated artwork. The video is a screenshot tour, not live gameplay footage.*
+
+### Refreshed multiplayer links
+
+- [Server B — PC-hosted](https://technology-backed-pendant-managers.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
+- [Server A](https://cybernet-asia-production.up.railway.app/)
+
+These servers run the existing public build, not the local Level 2 candidate. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
+
+
 
 **Four Operators. One machine uprising.**
 
