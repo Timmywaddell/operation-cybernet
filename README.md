@@ -12,7 +12,7 @@
 
 ### Refreshed multiplayer links
 
-- [Server B — PC-hosted](https://technology-backed-pendant-managers.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
+- [Server B — PC-hosted](https://extensive-evening-comes-hawaiian.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
 - [Server A](https://cybernet-asia-production.up.railway.app/)
 
 These servers run the existing public build, not the local Level 2 candidate. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
