@@ -1,5 +1,14 @@
 # OPERATION CYBERNET
 
+## NEW FEATURE — Mobile browser play
+
+**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Server A](https://cybernet-asia-production.up.railway.app/) or [Server B](https://extensive-evening-comes-hawaiian.trycloudflare.com/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
+
+Mobile starts on Low graphics with a clear, helmet-free view and top-left radar. You can change quality in Settings. Desktop mouse-and-keyboard gameplay is preserved, with an optional FPS-only counter in Single Player.
+
+Use these server links for the updated mobile version, not the older embedded itch.io Run game build. Server B requires the developer PC and tunnel to stay online; Server A is the cloud-hosted first choice. This is an in-development feature: performance varies by phone. Share your device, browser and orientation when reporting feedback.
+
+
 ## Latest devlog — Inside Level 2: The Drowned Relay
 
 **6 October 2026 — development preview.** Explore our new alien temple, elevated ramps, wetland routes and Operator facilities in a tour of real environment-review screenshots. Wave 1 Strikers are in local testing; pursuit, obstacle traversal and performance are still being refined. Level 2 has not launched publicly yet.
