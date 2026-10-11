@@ -9,15 +9,15 @@ Mobile starts on Low graphics with a clear, helmet-free view and top-left radar.
 Use these server links for the updated mobile version, not the older embedded itch.io Run game build. Server B requires the developer PC and tunnel to stay online; Server A is the cloud-hosted first choice. This is an in-development feature: performance varies by phone. Share your device, browser and orientation when reporting feedback.
 
 
-## Latest devlog — Inside Level 2: The Drowned Relay
+## Latest devlog — The M12-R, the bunker and two worlds of light
 
-**6 October 2026 — development preview.** Explore our new alien temple, elevated ramps, wetland routes and Operator facilities in a tour of real environment-review screenshots. Wave 1 Strikers are in local testing; pursuit, obstacle traversal and performance are still being refined. Level 2 has not launched publicly yet.
+**11 October 2026 — photo-only development preview.** Explore the Human Forces recon vehicle, bunker motor pool, industrial human bridges and sweeping cyan-lit alien routes. **Level 2 remains private and is not available through the public play links.**
 
-[Watch the video devlog](https://youtu.be/puw9WoumVNY) · [Read the illustrated update](https://coltensteelegames.itch.io/operation-cybernet/devlog/1693448/inside-level-2-the-drowned-relay-new-views-wave-1-and-what-comes-next)
+[Read the illustrated devlog](https://coltensteelegames.itch.io/operation-cybernet/devlog/1702134/inside-level-2-the-m12-r-the-bunker-and-two-worlds-of-light) · [Read on IndieDB](https://www.indiedb.com/games/operation-cybernet/news/inside-level-2-the-m12-r-the-bunker-and-two-worlds-of-light)
 
-![The Drowned Relay development view](https://img.itch.zone/aW1nLzMwNTg3OTk5LmpwZw==/original/SoJgfl.jpg)
+![M12-R recon vehicle in its asset viewer](https://img.itch.zone/aW1nLzMwNzYwMzY2LnBuZw==/original/HiQHtf.png)
 
-*Real environment-review capture, not generated artwork. The video is a screenshot tour, not live gameplay footage.*
+*Actual model-viewer capture, not an in-level gameplay screenshot or newly generated scene. AI-assisted tools are used in the project's code, graphics and written materials. Loading and performance remain under refinement.*
 
 ### Refreshed multiplayer links
 
