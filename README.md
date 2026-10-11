@@ -2,7 +2,7 @@
 
 ## NEW FEATURE — Mobile browser play
 
-**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Server A](https://cybernet-asia-production.up.railway.app/) or [Server B](https://extensive-evening-comes-hawaiian.trycloudflare.com/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
+**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Server A](https://cybernet-asia-production.up.railway.app/) or [Server B](https://rhode-saskatchewan-charter-ballot.trycloudflare.com/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
 
 Mobile starts on Low graphics with a clear, helmet-free view and top-left radar. You can change quality in Settings. Desktop mouse-and-keyboard gameplay is preserved, with an optional FPS-only counter in Single Player.
 
@@ -21,7 +21,7 @@ Use these server links for the updated mobile version, not the older embedded it
 
 ### Refreshed multiplayer links
 
-- [Server B — PC-hosted](https://extensive-evening-comes-hawaiian.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
+- [Server B — PC-hosted](https://rhode-saskatchewan-charter-ballot.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
 - [Server A](https://cybernet-asia-production.up.railway.app/)
 
 These servers run the existing public build, not the local Level 2 candidate. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
