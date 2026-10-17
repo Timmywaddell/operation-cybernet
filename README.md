@@ -6,25 +6,37 @@
 
 Mobile starts on Low graphics with a clear, helmet-free view and top-left radar. You can change quality in Settings. Desktop mouse-and-keyboard gameplay is preserved, with an optional FPS-only counter in Single Player.
 
-Use these server links for the updated mobile version, not the older embedded itch.io Run game build. Server B requires the developer PC and tunnel to stay online; Server A is the cloud-hosted first choice. This is an in-development feature: performance varies by phone. Share your device, browser and orientation when reporting feedback.
+The itch.io Run game launcher opens Server A. Server B requires the developer PC and tunnel to stay online; Server A is the cloud-hosted first choice. This is an in-development feature: performance varies by phone. Share your device, browser and orientation when reporting feedback.
 
 
-## Latest devlog — The M12-R, the bunker and two worlds of light
+## Level 2 is live — Early single-player playtest
 
-**11 October 2026 — photo-only development preview.** Explore the Human Forces recon vehicle, bunker motor pool, industrial human bridges and sweeping cyan-lit alien routes. **Level 2 remains private and is not available through the public play links.**
+**The Drowned Relay is now playable.** Find the M12-R in the bunker and mount your Inferno on its rear **HELLRAIL** stand. Aim and lock while driving, or leave the cannon on the tower as an automatic sentry.
 
-[Read the illustrated devlog](https://coltensteelegames.itch.io/operation-cybernet/devlog/1702134/inside-level-2-the-m12-r-the-bunker-and-two-worlds-of-light) · [Read on IndieDB](https://www.indiedb.com/games/operation-cybernet/news/inside-level-2-the-m12-r-the-bunker-and-two-worlds-of-light)
+**Your cannon, your remaining ammo:** mounting transfers loaded and reserve rounds into one finite feed, with no mounted reloads. Retrieve it to carry it again. The car is player-aimed; the tower targets automatically.
 
-![M12-R recon vehicle in its asset viewer](https://img.itch.zone/aW1nLzMwNzYwMzY2LnBuZw==/original/HiQHtf.png)
+[Play the campaign](https://cybernet-asia-production.up.railway.app/) — Single Player → defeat the Level 1 boss → Continue to Level 2. [Direct Level 2 playtest](https://cybernet-asia-production.up.railway.app/single-player-level2/solo/?vehicleGlow=1).
 
-*Actual model-viewer capture, not an in-level gameplay screenshot or newly generated scene. AI-assisted tools are used in the project's code, graphics and written materials. Loading and performance remain under refinement.*
+[Illustrated release + mounting and resupply guide](https://coltensteelegames.itch.io/operation-cybernet/devlog/1711976/level-2-is-live-mount-the-inferno-drive-the-m12-r-hold-the-drowned-relay) · [Read on IndieDB](https://www.indiedb.com/games/operation-cybernet/news/level-2-is-live-your-inferno-your-m12-r-your-choice)
+
+![Inferno on the M12-R HELLRAIL mount in the bunker](https://img.itch.zone/aW1nLzMwOTc1NzA2LmpwZw==/original/PpW%2BP6.jpg)
+
+*Staged in-game feature capture from the actual rendered build, not a generated gameplay image. AI-assisted tools are used in the project's code, graphics and writing.*
+
+**Resupply:** red-cross health case in **MEDICAL / SHIELD**, beneath **AUTO REPAIR BOTS**; green shield case at the terminal beneath **ARMOURY // 02**. See the illustrated guide for actual supply positions.
+
+**Early release for playtesters. Level 2 is single-player only right now.** Other modes are planned, with many updates ahead. Car and weapon-mounting footage is coming next. Initial preparation and performance vary by device.
+
+### October 11 photo preview — historical
+
+The [earlier preview](https://coltensteelegames.itch.io/operation-cybernet/devlog/1702134/inside-level-2-the-m12-r-the-bunker-and-two-worlds-of-light) documented the then-private build. Its private-access notice is historical; the October 17 release above supersedes it.
 
 ### Refreshed multiplayer links
 
 - [Server B — PC-hosted](https://rhode-saskatchewan-charter-ballot.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
 - [Server A](https://cybernet-asia-production.up.railway.app/)
 
-These servers run the existing public build, not the local Level 2 candidate. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
+Server A includes the public single-player Level 2 playtest. Level 2 is not yet enabled in multiplayer modes. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
 
 
 
