@@ -2,11 +2,11 @@
 
 ## NEW FEATURE — Mobile browser play
 
-**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Server A](https://cybernet-asia-production.up.railway.app/) or [Server B](https://rhode-saskatchewan-charter-ballot.trycloudflare.com/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
+**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Play — Server B](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/) or [Server B](https://oil-proxy-mariah-filme.trycloudflare.com/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
 
 Mobile starts on Low graphics with a clear, helmet-free view and top-left radar. You can change quality in Settings. Desktop mouse-and-keyboard gameplay is preserved, with an optional FPS-only counter in Single Player.
 
-The itch.io Run game launcher opens Server A. Server B requires the developer PC and tunnel to stay online; Server A is the cloud-hosted first choice. This is an in-development feature: performance varies by phone. Share your device, browser and orientation when reporting feedback.
+The itch.io Run game launcher opens Server B through the stable play address. Server B requires the developer PC and tunnel to stay online. All play links temporarily route to Server B while Server A updates are unavailable. This is an in-development feature: performance varies by phone. Share your device, browser and orientation when reporting feedback.
 
 
 ## Level 2 is live — Early single-player playtest
@@ -15,7 +15,7 @@ The itch.io Run game launcher opens Server A. Server B requires the developer PC
 
 **Your cannon, your remaining ammo:** mounting transfers loaded and reserve rounds into one finite feed, with no mounted reloads. Retrieve it to carry it again. The car is player-aimed; the tower targets automatically.
 
-[Play the campaign](https://cybernet-asia-production.up.railway.app/) — Single Player → defeat the Level 1 boss → Continue to Level 2. [Direct Level 2 playtest](https://cybernet-asia-production.up.railway.app/single-player-level2/solo/?vehicleGlow=1).
+[Play the campaign](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/) — Single Player → defeat the Level 1 boss → Continue to Level 2. [Direct Level 2 playtest](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/single-player-level2/solo/?vehicleGlow=1).
 
 [Illustrated release + mounting and resupply guide](https://coltensteelegames.itch.io/operation-cybernet/devlog/1711976/level-2-is-live-mount-the-inferno-drive-the-m12-r-hold-the-drowned-relay) · [Read on IndieDB](https://www.indiedb.com/games/operation-cybernet/news/level-2-is-live-your-inferno-your-m12-r-your-choice)
 
@@ -33,10 +33,10 @@ The [earlier preview](https://coltensteelegames.itch.io/operation-cybernet/devlo
 
 ### Refreshed multiplayer links
 
-- [Server B — PC-hosted](https://rhode-saskatchewan-charter-ballot.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
-- [Server A](https://cybernet-asia-production.up.railway.app/)
+- [Server B — PC-hosted](https://oil-proxy-mariah-filme.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
+- [Play campaign — temporarily Server B](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/)
 
-Server A includes the public single-player Level 2 playtest. Level 2 is not yet enabled in multiplayer modes. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
+Server B includes the updated public single-player Level 2 playtest. Level 2 is not yet enabled in multiplayer modes. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
 
 
 
