@@ -2,7 +2,7 @@
 
 ## NEW FEATURE — Mobile browser play
 
-**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Play — Server B](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/) or [Server B](https://oil-proxy-mariah-filme.trycloudflare.com/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
+**Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Play — Server B](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
 
 Mobile starts on Low graphics with a clear, helmet-free view and top-left radar. You can change quality in Settings. Desktop mouse-and-keyboard gameplay is preserved, with an optional FPS-only counter in Single Player.
 
@@ -33,7 +33,7 @@ The [earlier preview](https://coltensteelegames.itch.io/operation-cybernet/devlo
 
 ### Refreshed multiplayer links
 
-- [Server B — PC-hosted](https://oil-proxy-mariah-filme.trycloudflare.com/) — refreshed after the reboot; requires the developer PC and tunnel to remain online.
+- [Server B — PC-hosted](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/) — restored on the 4070 host; requires the developer PC and tunnel to remain online.
 - [Play campaign — temporarily Server B](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/)
 
 Server B includes the updated public single-player Level 2 playtest. Level 2 is not yet enabled in multiplayer modes. Friends must choose the same server and room. The [itch.io page](https://coltensteelegames.itch.io/operation-cybernet) remains the home for current play links.
