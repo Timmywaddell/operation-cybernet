@@ -1,5 +1,24 @@
 # OPERATION CYBERNET
 
+## BRING THE CONVOY — next for Level 2
+
+**Multiple cars. Rival Operators. Then the machines.**
+
+Next: Level 2 multiplayer PvP with multiple M12-Rs, followed by PvE with multiple cars. **In development—not playable yet. No release date announced.**
+
+Already playable solo: mount your Inferno on the car’s HELLRAIL—or leave it on the tower as an automatic sentry. Your gun. Your call. Finite transferred ammo, no mounted reloads.
+
+![Two M12-Rs — AI-generated promotional concept art, NOT gameplay](media/convoy-20261026/01-convoy-1080.png)
+
+*AI-generated concept art, not a multiplayer gameplay capture. The two images below are actual single-player captures, with brightness lifted for readability.*
+
+![Actual vehicle-mounted Inferno gameplay capture](media/convoy-20261026/02-car-gameplay-1080.png)
+![Actual tower-sentry gameplay capture](media/convoy-20261026/03-tower-gameplay-1080.png)
+
+[Play Level 2 solo](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/single-player-level2/solo/?vehicleGlow=1) · [The short devlog](https://coltensteelegames.itch.io/operation-cybernet/devlog/1730509/bring-the-convoy-whats-next-for-level-2)
+
+**Vehicle PvP or PvE convoys—which would you play first?**
+
 ## NEW FEATURE — Mobile browser play
 
 **Play Single Player on your phone in portrait (vertical) or landscape (horizontal).** Open [Play — Server B](https://operation-cybernet-play.terminator3futurewar.chatgpt.site/) in your mobile browser and choose Single Player. Touch controls appear automatically; no app installation is needed.
